@@ -24,11 +24,15 @@ h1{
     
 }
 
+h2{
+    color: black;
+}
+
 .btn{
     font-family: "Roboto", sans-serif;
     font-size: 18px;
     font-weight: bold;
-    background: white;
+    background: rgb(221, 221, 221);
     width: 160px;
     padding: 20px;
     text-align: center;
@@ -52,6 +56,6 @@ h1{
 
 footer{
     margin-top: auto;
-    background-color: black;
+    background-color: rgb(0, 0, 0);
     margin-top: auto;
 }
